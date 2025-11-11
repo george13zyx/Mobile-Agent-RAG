@@ -1,0 +1,20 @@
+# Python 3.10.16 (windows & linux)
+torch
+torchvision
+transformers
+opencv-python
+timm
+SentencePiece
+pyclipper
+pycocotools
+yapf
+sortedcontainers
+supervision==0.21.0
+simplejson
+addict
+termcolor
+shapely
+datasets
+modelscope
+matplotlib
+dashscope
