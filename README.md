@@ -1,4 +1,4 @@
-## Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation
+## Mobile-Agent-RAG
 
 ### Preparation
 
@@ -95,4 +95,5 @@ bash mobile_eval_e_retrieve/operator/app/generate_embedding.sh
 conda activate agent
 bash run_task.sh
 ```
+
 
